@@ -1,4 +1,4 @@
-##PAF-ecom-app
+PAF-ecom-app
 RESTfull e-commerce application for 3rd year Programming Application Frameworks project
 
 Clone the project git clone “https://github.com/Kushanrawindu/PAF-ecom-app”.
